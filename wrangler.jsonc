@@ -6,6 +6,10 @@
     "binding": "ASSETS",
     "directory": "dist/public"
   },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 0.1
+  },
   "compatibility_date": "2025-05-08",
   "compatibility_flags": [
     "nodejs_compat"
