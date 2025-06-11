@@ -5,3 +5,5 @@ onlyBuiltDependencies:
   - unrs-resolver
   - vue-demi
   - workerd
+packages:
+  - 'packages/**'
